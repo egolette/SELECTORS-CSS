@@ -1,0 +1,23 @@
+p {
+    color: plum;
+}
+
+#text.desc1 {
+    background-color: black;
+    color: cyan
+}
+
+.desk {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+[href] {
+    text-decoration: none;
+}
+
+.desc,
+.desc1 {
+    color: blueviolet;
+}
